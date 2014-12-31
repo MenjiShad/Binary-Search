@@ -2,6 +2,7 @@ Binary-Search
 =============
 
 Binary Search Algorithm for ArrayList of Integers
+
 import java.util.ArrayList;
 
 public class Binary_Search
